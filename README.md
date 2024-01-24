@@ -1,5 +1,7 @@
 ### Hi I'm puk06!!! 👋
+I am studying programming and creating software for osu! as a hobby!
 
+Languages: JavaScript, TypeScript, C#
 <!--
 **puk06/puk06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
