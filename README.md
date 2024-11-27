@@ -1,13 +1,14 @@
 ### Hi I'm puk06!!! 👋
 I am studying programming and creating software for osu! as a hobby!
 
-Languages: JavaScript, TypeScript, C#
+Languages: JavaScript, C#
 
 
 - 🔭 I’m currently working on
-1. **Mamestagram's Tools**
-2. **RealtimePPUR**
-3. **osu! Launcher**
+1. **RealtimePPUR**
+2. **osu! Launcher**
+3. **vrchat-Launcher**
+4. **IkanClient (Private Skyblock Client)**
 
 Love Hoshino!
 <!--
