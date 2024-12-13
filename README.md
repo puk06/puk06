@@ -8,7 +8,8 @@ Languages: JavaScript, C#
 1. **RealtimePPUR**
 2. **osu! Launcher**
 3. **vrchat-Launcher**
-4. **IkanClient (Private Skyblock Client)**
+4. **VRChat Avatar Explorer**
+5. **IkanClient (Private Skyblock Client)**
 
 Love Hoshino!
 <!--
