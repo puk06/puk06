@@ -5,7 +5,7 @@ Languages: JavaScript, C#
 
 
 - 🔭 I’m currently working on
-1. **VRChat Avatar Explorer**
+1. **VRChat Avatar Explorer** (https://pukorufu.booth.pm/items/6372968)
 2. **osu! Launcher**
 3. **vrchat-Launcher**
 4. **RealtimePPUR**
