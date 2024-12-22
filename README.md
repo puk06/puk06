@@ -5,10 +5,10 @@ Languages: JavaScript, C#
 
 
 - 🔭 I’m currently working on
-1. **RealtimePPUR**
+1. **VRChat Avatar Explorer**
 2. **osu! Launcher**
 3. **vrchat-Launcher**
-4. **VRChat Avatar Explorer**
+4. **RealtimePPUR**
 5. **IkanClient (Private Skyblock Client)**
 
 Love Hoshino!
