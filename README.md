@@ -4,7 +4,8 @@
 
 osu!、VRChat、Minecraftに関するソフトを主に作ってます！
 
-使ってる言語: JavaScript, C#
+今使ってる言語: JavaScript, C#
+
 勉強中の言語: Rust
 
 - 今取り組んでいる主なプロジェクト一覧
