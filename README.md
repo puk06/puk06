@@ -16,9 +16,10 @@ osu!、VRChat、Minecraftに関するソフトを主に作ってます！
 6. **IkanClient (Private Skyblock Client)**
 
 ブルアカのほしのが大好きです！！！
-うへ〜
 
 ぼくのGithunbのすてーたす！
 
 ![puk06's Stats](https://github-readme-stats.vercel.app/api?username=puk06&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![puk06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puk06&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+うへ〜
