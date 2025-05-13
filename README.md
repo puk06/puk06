@@ -17,7 +17,7 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 - [**VRChat Avatar Explorer**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
 - **RealtimePPUR** – Displays real-time PP stats for osu!
 - **osu! Launcher** – A custom launcher for osu!
-- **vrchat-Launcher** – VRChat launcher with profile management
+- **VRChat Launcher** – VRChat launcher with profile management
 - **IkanClient** – Private Skyblock client *(WIP / Private)*
 
 ---
