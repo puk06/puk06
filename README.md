@@ -9,11 +9,11 @@ osu!、VRChat、Minecraftに関するソフトを主に作ってます！
 勉強中の言語: Rust
 
 - 今取り組んでいる主なプロジェクト一覧
-1. **RealtimePPUR**
-2. **osu! Launcher**
-3. **vrchat-Launcher**
-4. **VRChat Avatar Explorer** (https://pukorufu.booth.pm/items/6372968)
-5. **VRChat Color Changer** (https://pukorufu.booth.pm/items/6519471)
+1. **Color Changer** (https://pukorufu.booth.pm/items/6519471)
+2. **VRChat Avatar Explorer** (https://pukorufu.booth.pm/items/6372968)
+3. **RealtimePPUR**
+4. **osu! Launcher**
+5. **vrchat-Launcher**
 6. **IkanClient (Private Skyblock Client)**
 
 ブルアカのほしのが大好きです！！！
