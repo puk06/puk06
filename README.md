@@ -33,6 +33,3 @@ I'm absolutely obsessed with **Hoshino** from *Blue Archive*! 🌟
 ![puk06's Stats](https://github-readme-stats.vercel.app/api?username=puk06&theme=react&show_icons=true&hide_border=true&count_private=true)  ![puk06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puk06&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-> Code, create, repeat.  
-> Just another nerd trying to build cool stuff.
