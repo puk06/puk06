@@ -25,5 +25,3 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 ### 📊 GitHub Stats
 
 ![puk06's Stats](https://github-readme-stats.vercel.app/api?username=puk06&theme=react&show_icons=true&hide_border=true&count_private=true)  ![puk06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puk06&theme=react&show_icons=true&hide_border=true&layout=compact)
-
----
