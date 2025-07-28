@@ -18,7 +18,7 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 - **RealtimePPUR** – Displays real-time stats for osu!
 - **osu! Launcher** – A custom launcher for osu!
 - **VRChat Launcher** – VRChat launcher with profile management
-- **IkanClient** – Private Skyblock client *(WIP / Private)*
+- **IkanClient** – Private Skyblock client
 
 ---
 
