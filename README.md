@@ -7,7 +7,7 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 ### 🛠️ Tech Stack
 
 - **Languages I use:** JavaScript, C#
-- **Currently learning:** Rust
+- **Currently learning:** Null
 
 ---
 
@@ -15,16 +15,10 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 
 - [**Color Changer**](https://pukorufu.booth.pm/items/6519471) – Flexible Texture Recoloring Tool
 - [**VRChat Avatar Explorer**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
-- **RealtimePPUR** – Displays real-time PP stats for osu!
+- **RealtimePPUR** – Displays real-time stats for osu!
 - **osu! Launcher** – A custom launcher for osu!
 - **VRChat Launcher** – VRChat launcher with profile management
 - **IkanClient** – Private Skyblock client *(WIP / Private)*
-
----
-
-### 💖 Fandom
-
-I'm absolutely obsessed with **Hoshino** from *Blue Archive*! 🌟
 
 ---
 
