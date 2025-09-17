@@ -13,8 +13,9 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 
 ### 🚧 Ongoing Projects
 
-- [**Color Changer**](https://pukorufu.booth.pm/items/6519471) – Flexible Texture Recoloring Tool
-- [**VRChat Avatar Explorer**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
+- [**VRC Color Changer**](https://pukorufu.booth.pm/items/6519471) – Flexible Texture Recoloring Tool 
+- [**Color Changer For Unity**](https://pukorufu.booth.pm/items/7315019) – Non-Destructive Real-time Texture Recoloring Tool for Unity
+- [**VRC Avatar Explorer**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
 - **RealtimePPUR** – Displays real-time stats for osu!
 - **osu! Launcher** – A custom launcher for osu!
 - **VRChat Launcher** – VRChat launcher with profile management
