@@ -17,7 +17,7 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 - [**Color Changer For Unity**](https://pukorufu.booth.pm/items/7315019) – Non-Destructive Real-time Texture Recoloring Tool for Unity
 - [**VRC Avatar Explorer**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
 - **RealtimePPUR** – Displays real-time stats for osu!
-- **osu! Launcher** – A custom launcher for osu!
+- **osu! Bridge** – A custom launcher V2 for osu! stable and lazer
 - **VRChat Launcher** – VRChat launcher with profile management
 - **IkanClient** – Private Skyblock client
 
