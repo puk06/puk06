@@ -14,6 +14,7 @@ jobs:
         with:
           user: puk06
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-personal.svg
 
           base: header, activity, community, repositories, metadata
