@@ -4,13 +4,6 @@ I'm just a student who enjoys programming as a hobby — building tools and soft
 
 ---
 
-### Tech Stack
-
-- **Languages I use:** JavaScript, C#
-- **Currently learning:** Null
-
----
-
 ### Ongoing Projects
 
 - [**VRC Avatar Explorer (V2.x.x)**](https://pukorufu.booth.pm/items/6372968) – Visual Explorer for Booth Items
